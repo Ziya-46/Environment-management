@@ -1,3 +1,5 @@
+phase 1
+
 ok# Environment-management
 Designing an environmental management system (EMS) requires careful planning and consideration of various elements. Here are some ideas and key steps to help you design an effective EMS:
 
